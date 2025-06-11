@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# 가상환경 폴더
+.venv/
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 편집기 설정 (선택적)
+.vscode/
+.idea/
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
