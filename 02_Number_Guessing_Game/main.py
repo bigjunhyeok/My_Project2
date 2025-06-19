@@ -47,7 +47,7 @@ def play_game():
         print(result)
 
         if guess == target_number:
-            print(f"{attempts}번 만에 숫자를 맞추셨습니다. 축하합니다!")
+            print(f"{attempts}번 만에 숫자를 맞추셨습니다. 축하합니다!!")
             break
 
 if __name__ == "__main__":
