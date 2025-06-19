@@ -107,7 +107,7 @@ def play_game():
             print(f"⏳ 남은 시도 : {remaining}번\n")
             if remaining <= 0:
                 print("\n" + "=" * 50)
-                print(f"💥 기회를 모두 사용하셨습니다. 정답은 {target_number}였습니다.")
+                print(f"💥 기회를 모두 사용하셨습니다. 정답은 {target_number}였습니다!")
                 print("=" * 50)
                 break
 
